@@ -1,7 +1,8 @@
-+*.DS_Store
-+*.swp
-+*.py[co]
-+*.out
+*.DS_Store
+*.tex.swp
+*.swp
+*.py[co]
+*.out
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
