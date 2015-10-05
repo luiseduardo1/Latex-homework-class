@@ -140,6 +140,9 @@
    \setcounter{page}{1}
    \pagenumbering{arabic} }
 
+% Correct errors with inputenc and UTF-8 non-breaking space
+\DeclareUnicodeCharacter{00A0}{}
+
 %--------------------------------------------------------------------------------------
 %-------------------------- Presentation Page Layout ----------------------------------
 %--------------------------------------------------------------------------------------
