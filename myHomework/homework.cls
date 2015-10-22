@@ -224,7 +224,7 @@
 % Definitions of the title page default parameters                
 \def\theFirstStudentName{Name of the first student}
 \def\theFirstStudentNameID{ID of the first student}
-\def\theSecondStudentName{~} %Blank space if there's no seconde student
+\def\theSecondStudentName{~} % Blank space if there's no second student
 \def\theSecondStudentID{~}
 
 \def\theClassName{Name of your class}
